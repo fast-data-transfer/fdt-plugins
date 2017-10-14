@@ -1,8 +1,6 @@
 /*
  * $Id$
  */
-package lia.util.net.copy.filters.examples;
-
 import lia.util.net.copy.filters.Postprocessor;
 import lia.util.net.copy.filters.ProcessorInfo;
 
